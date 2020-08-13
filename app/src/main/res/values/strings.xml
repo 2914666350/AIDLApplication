@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AIDLApplication</string>
+    <string name="TextView1">这是主界面</string>
+    <string name="Button1">行车记录</string>
+</resources>

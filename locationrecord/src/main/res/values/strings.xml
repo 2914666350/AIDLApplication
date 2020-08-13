@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LocationRecord</string>
+    <string name="Switch">开启行车记录服务</string>
+    <string name="TextView2">经纬度信息</string>
+    <string name="Button2">获取位置</string>
+</resources>
